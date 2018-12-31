@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\bin\Debug\ControlGakta.exe.config
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\bin\Debug\ControlGakta.exe
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\bin\Debug\ControlGakta.pdb
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta.g.resources
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta.exe
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta.pdb
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\obj\Debug\ControlGakta.Ico.resources
+C:\Users\Administrator\Desktop\ControlGakta\ControlGakta\bin\Debug\Resources\ico.ICO

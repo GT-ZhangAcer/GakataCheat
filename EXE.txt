@@ -1,0 +1,1 @@
+pyinstaller -F -w  -i G:/GakataCheat/ico.ico G:/GakataCheat/main.py
